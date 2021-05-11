@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Game
-Created a Rock Paper Scissors Game in the browser. 
+###Created a Rock Paper Scissors Game in the browser. 
 
 Rock, paper, and scissors game is a simple fun game in which both the players have to make a rock, paper, or scissors. 
 Two - player game where the user will be playing against the computer.
